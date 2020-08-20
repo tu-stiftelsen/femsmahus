@@ -11,4 +11,4 @@ Projektet ​Fem små hus​ har initierats av TU-stiftelsen i samarbete med exp
 * Del 2. Målbild, översikt, grundläggande krav och principer, organisation
 * Del 3. Teknisk specifikation
 
-Samtliga kommer att publiceras här under juni 2020
+Samtliga kommer att publiceras här i takt med att dom är klara.
