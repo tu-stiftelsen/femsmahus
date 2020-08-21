@@ -12,3 +12,6 @@ Projektet ​Fem små hus​ har initierats av TU-stiftelsen i samarbete med exp
 * Del 3. Teknisk specifikation
 
 Samtliga kommer att publiceras här i takt med att dom är klara.
+
+## Författare
+Dokumenten är framtagna av TU-stiftelsens arbetsgrupp för infrastruktur med deltagare från nätoperatörer, leverantörer och myndigheter. Deltagarna har inte representerat sina respektive arbetsgivare utan deltagit som experter. TU-stiftelsen tackar alla deltagare för sin medverkan och för dom resurser som ställts till gruppens förfogande i form av möteslokaler, databaser och andra typer av verktyg.
